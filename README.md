@@ -32,7 +32,7 @@ I am especially interested in roles involving:
 
 | Project | Focus | Tools |
 |---|---|---|
-| [SOC Automation Lab](https://github.com/Riumdavis/SOC-Automation) | Automated SOC alert triage, enrichment, and case creation workflow | Wazuh, TheHive, Shuffle.io, VirusTotal, Vultr |
+| [SOC Automation Lab](https://github.com/Riumdavis/SOC-Automation-Lab) | Automated SOC alert triage, enrichment, and case creation workflow | Wazuh, TheHive, Shuffle.io, VirusTotal, Vultr |
 
 ---
 
