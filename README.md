@@ -134,4 +134,4 @@ Each project will aim to include:
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/stevenrobbiedavis](https://www.linkedin.com/in/stevenrobbiedavis)
-- **GitHub:** [github.com/YOUR-USERNAME](https://github.com/Riumdavis)
+- **GitHub:** [github.com/Riumdavis](https://github.com/Riumdavis)
