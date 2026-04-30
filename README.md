@@ -10,22 +10,6 @@ I am a Security+ certified IT and cybersecurity professional building a hands-on
 
 My background includes technical support, security operations fundamentals, regulatory/compliance exposure, and executive-level technology work. I am currently focused on developing practical SOC analyst skills through home labs, alert triage workflows, security automation, and incident response documentation.
 
-This GitHub portfolio documents the projects I am building to demonstrate real-world blue-team skills, including SIEM alerting, case management, threat intelligence enrichment, and automated response workflows.
-
----
-
-## Objective
-
-My goal is to transition into a **SOC Analyst Tier 1** role where I can apply my experience in IT support, security monitoring, incident response, and automation to help detect, investigate, and respond to security events.
-
-I am especially interested in roles involving:
-
-- SIEM alert monitoring and triage
-- Endpoint and network security investigation
-- Incident response documentation
-- Threat intelligence enrichment
-- Security automation and workflow improvement
-
 ---
 
 ## Completed Projects
