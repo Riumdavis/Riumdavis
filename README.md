@@ -73,6 +73,7 @@ My background includes technical support, security operations fundamentals, regu
 ![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-green?style=for-the-badge)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-Endpoint%20Security-purple?style=for-the-badge)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-Endpoint%20Security-red?style=for-the-badge)
+![CyberChef](https://img.shields.io/badge/CyberChef-Data%20Analysis%20%26%20Decoding-brightgreen?style=for-the-badge)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Threat%20Framework-red?style=for-the-badge)
 
 ---
